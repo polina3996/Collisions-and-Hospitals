@@ -1,6 +1,6 @@
 <h>Collisions and nearest hospitals Data Analysis</h>
 
-In this analysis I train a skill of prozimity analysis, calculating distances and placing buffer polygons onto map.
+In this analysis I train a skill of proximity analysis, calculating distances and placing buffer polygons onto map.
 
 <h>Data</h>
 
